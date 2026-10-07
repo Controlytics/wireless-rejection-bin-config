@@ -1,0 +1,12 @@
+# PyInstaller output
+build/
+dist/
+
+# Runtime logs
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/

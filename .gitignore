@@ -1,6 +1,5 @@
-# PyInstaller output
+# PyInstaller output (dist/ is committed so the exe is in the repo)
 build/
-dist/
 
 # Runtime logs
 logs/
